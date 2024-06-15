@@ -1,3 +1,1 @@
 # LLINTERN
-
-Web development intern
